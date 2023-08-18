@@ -25,6 +25,7 @@ html{
     left: 30%;
     top: 200px;
     z-index: 1;
+    margin-top:20px;
 }
 
 #header-text{
@@ -144,7 +145,6 @@ section:last-child{
     justify-content: space-around;
     align-items: center;
     margin-left: 50px;
-    margin-top:10px;
 }
 
 #works-contents{

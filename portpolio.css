@@ -29,7 +29,6 @@ html{
 
 #header-text{
     margin-left: 50px;
-    margin-botoom:50px;
 }
 
 #title-text>span:last-child{
@@ -68,6 +67,7 @@ h1{
 
 .profile-img{
     margin-left: 50px;
+    padding-top:50px;
 }
 
 #profile-contents{
